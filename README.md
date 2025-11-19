@@ -1,0 +1,26 @@
+# 📚 Data Science & Machine Learning Analysis Projects
+
+This repository documents the work completed in data analysis, data handling, and preprocessing.
+
+Each subdirectory is organized by project topic and contains a Jupyter Notebook, a dedicated `README.md` with a summary of the project's focus, and references to necessary data files.
+
+* The data files used are free, publicly available datasets (e.g., from Kaggle or public repositories) and are located in the dedicated **`Datasets/`** folder.
+
+## 📋 Analysis Index
+
+| ID | Topic | Analysis Focus | Status | Folder |
+| :---: | :--- | :--- | :---: | :---: |
+| **A-02** | **Data Frames & Data Pre-processing** | Reading data from multiple formats (CSV, JSON, SQL) and manipulation fundamentals. | ✅ Completed | [Data Frames and Basic Data Pre-processing/](./Data Frames and Basic Data Pre-processing/README.md) |
+
+---
+
+## 🚀 Setup and Requirements
+
+To run the notebooks in this repository, you will need the following:
+
+1.  **Python 3.x**
+2.  **Jupyter Notebook or JupyterLab** (or a platform like Google Colab)
+3.  **Required Libraries:** Install the core libraries using pip:
+    ```bash
+    pip install pandas scikit-learn matplotlib sqlalchemy openpyxl
+    ```
