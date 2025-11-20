@@ -1,6 +1,6 @@
 # 📈 Analysis: Data Frames and Basic Data Pre-processing
 
-[View the Notebook: Data Frames and Basic Data Pre-processing.ipynb](./Data Frames and Basic Data Pre-processing.ipynb)
+[View the Notebook: Data Frames and Basic Data Pre-processing.ipynb](./Data%20%Frames%20%and%20%Basic%20%Data%20%Pre-processing.ipynb)
 
 ## Project Focus
 The goal of this analysis was to master fundamental data loading and manipulation techniques using the Python Pandas library.
